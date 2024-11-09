@@ -33,7 +33,7 @@
     "ext-mbstring": "*",
     "ext-openssl": "*",
     "phpseclib/phpseclib": "^3.0",
-    "lcobucci/jwt": "3.4.6",
+    "lcobucci/jwt": "3.3.3",
     "guzzlehttp/guzzle": "^6.0|^7.0"
   },
   "require-dev": {
